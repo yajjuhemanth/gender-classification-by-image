@@ -23,7 +23,7 @@ To use this project:
 
 Clone the repository to your local machine:
 
-git clone https://github.com/your-username/gender_classification.git
+git clone https://github.com/yajjuhemanth/gender-classification-by-image.git
 Install the required dependencies:
 
 pip install -r requirements.txt
